@@ -1,5 +1,3 @@
-# Test carte Raspberry
-
-## Choix du systeme linux
+Cf page wiki
 
 
